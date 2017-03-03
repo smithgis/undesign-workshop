@@ -22,6 +22,7 @@ In this workshop, we will make a Story Map - a web map that integrates text, pic
 5. **RedlineMaps** - redlined (and yellow, blue, and greenlined) areas. The Field "Grade" refers to the grading given by the HOLC assessors in the '30s. A is best - these areas are green on the original maps - followed by B/blue, C/Yellow, and D/red.
 
 ## Helpful links:
+* [Story Map tutorials](http://www.science.smith.edu/sal/resources/workshops/) from the Spatial Analysis Lab
 * [Undesign the Redline @ Smith Website](https://sophia.smith.edu/undesign/): information on the exhibit on display in the Knowledge Lab
 * [Designing the WE](http://www.designingthewe.com/undesign-the-redline/): info on the exhibit from its creators, a deisgn studio in NYC called Designing the We
 * [Addressing Food Deserts in Chicopee, MA](https://smithcollege.maps.arcgis.com/apps/MapSeries/index.html?appid=e5d604d3f45b421f83f2f2fc42b41389): A story map produced by Maddie Vincnet, Rachel Moskowitz, and Zoe Chapman about food access in Chicopee (also the data source for the first three data layers listed above)
