@@ -7,18 +7,18 @@ In this workshop, we will make a Story Map - a web map that integrates text, pic
 2. **FreshProduceWalkingBuffers** - areas in Chicopee within 1 mile walking distance to a grocery store selling fresh produce
 3. **IsolatedByHighway** - areas in Chicopee with limited pedestrain access to the rest of the city due to two interstate highways
 4. **HampdenCountyCensusData** - demographic data from the 2015 American Community Survey for census block groups in Hampden County. Fields include:
-  *Population: total population of each census block
-  *Citizen: number of US Citizens per census block
-  *NonCitizen: number of non-citizens
-  *Income: per capita income
-  *NonHisp: number of persons of any race not identifying as Hispanic or Latino
-  *Hispanic: number of persons of any race identifying as Hispanic or Latino
-  *White: white population
-  *Black: black population
-  *AIAN: American Indian & Alaska Native population
-  *Asian: Asian population
-  *Other: number of people identifying with another race (not one of the census categories)
-  *TwoOrMore: number of people identifying as two or more races
+  * Population: total population of each census block
+  * Citizen: number of US Citizens per census block
+  * NonCitizen: number of non-citizens
+  * Income: per capita income
+  * NonHisp: number of persons of any race not identifying as Hispanic or Latino
+  * Hispanic: number of persons of any race identifying as Hispanic or Latino
+  * White: white population
+  * Black: black population
+  * AIAN: American Indian & Alaska Native population
+  * Asian: Asian population
+  * Other: number of people identifying with another race (not one of the census categories)
+  * TwoOrMore: number of people identifying as two or more races
 5. **RedlineMaps** - redlined (and yellow, blue, and greenlined) areas. The Field "Grade" refers to the grading given by the HOLC assessors in the '30s. A is best - these areas are green on the original maps - followed by B/blue, C/Yellow, and D/red.
 
 ## Helpful links:
