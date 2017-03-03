@@ -19,7 +19,7 @@ In this workshop, we will make a Story Map - a web map that integrates text, pic
   * Asian: Asian population
   * Other: number of people identifying with another race (not one of the census categories)
   * TwoOrMore: number of people identifying as two or more races
-5. **RedlineMaps** - redlined (and yellow, blue, and greenlined) areas. The Field "Grade" refers to the grading given by the HOLC assessors in the '30s. A is best - these areas are green on the original maps - followed by B/blue, C/Yellow, and D/red.
+5. **RedlineMaps** - redlined (and yellow, blue, and greenlined) areas. The Field "holc_grade" refers to the grading given by the HOLC assessors in the '30s. A is best - these areas are green on the original maps - followed by B/blue, C/Yellow, and D/red.
 
 ## Helpful links:
 * [Story Map tutorials](http://www.science.smith.edu/sal/resources/workshops/) from the Spatial Analysis Lab
